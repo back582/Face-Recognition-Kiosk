@@ -15,6 +15,11 @@
 
 ### 역할
  - PM, 프로젝트 엔지니어
+ - 라즈베리파이 기반 적외선, 터치 스크린, 센서 제어 및 임베디드 환경 설정
+ - 사용 데이터 MySQl기반의 데이터 베이스에 저장
+ - React 기반 관리자 화면 프론트엔드 구현
+ - 관리자 웹과 데이터베이스 연동
+ - AWS EC2 활용 얼굴인식 시스템 구현
  
 ### 개발환경
  - VScode, java spring, Node.js, AWS EC2, Ubuntu, mySQL, Socket.io, React
